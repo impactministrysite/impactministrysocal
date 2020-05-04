@@ -59,8 +59,8 @@ collections:
         label: About
         name: about
         fields:
-          - label: Story
-            name: story
+          - label: Body
+            name: body
             widget: markdown
 
 
