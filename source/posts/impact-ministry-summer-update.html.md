@@ -14,8 +14,6 @@ The course ran 6 weeks in April-May, and for a “dry run/first run” we heard 
 
 *15 students received 7 days’ “milestone credits” for time-off-sentence for completing Impact’s “Faith In Action” class via Zoom!*
 
-
-
 <br>
 
 **Prayer Gathering in the plaza outside the Main Entrance of SB Co Jail**
@@ -29,7 +27,7 @@ Chaplain Dan Gaither — the full-time chaplain on staff at the jail — welcome
 *Pastor Eddie joined with Sheriff's Department, along with Chaplain Dan Gaither and Michael Ladisa, to lead a prayer gathering outside the Santa Barbara County Jail.*
 
 \
-**<br>**
+<br>
 
 **3rd Annual Christmas Gift Event —** Impact board member Rafael Luna has taken the leadership role for this entire event (3rd Annual) and he will manage the fundraising and volunteer coordination for all aspects! Thanks to Rafael. Look for his fundraising ‘call for donations’ this early autumn on social media.
 
@@ -49,9 +47,7 @@ Impact Ministry has been invited to come alongside the young girls in residence 
 
 *Pastor Jason Walker and Chaplain Robin Walker with Impact Ministry.*
 
-
-
-**<br><br>**
+<br>
 
 ## **New Program Information**
 
@@ -69,8 +65,6 @@ Pastor Eddie and Alice Perez, Pastor Jason Walker, and Chaplain Robin Walker mak
 
 In 2018, lead SB County Jail Chaplain Dan Gaither and Pastor Eddie Perez baptized the first 12 women. This “founders group” purposed to gift every woman in the jail with a Christmas “Commissary Bag.” Impact Ministry raised the needed funds from generous donors and now supports an Annual Christmas Celebration—2020 will mark the first year Impact Ministry will raise funds to gift every woman and man in the Jail.
 
-
-
 <br><br>
 
 ## **For More Information**
@@ -78,10 +72,6 @@ In 2018, lead SB County Jail Chaplain Dan Gaither and Pastor Eddie Perez baptize
 <br>
 
 Please be sure to **[follow us on Facebook](https://www.facebook.com/Impact-Ministry-107515464244942)** for the latest updates from Impact. If you have any questions, or would like to get in touch, feel free to **[contact us](https://www.impactministrysocal.org/about/)** any time.
-
-
-
-
 
 ![](/images/uploads/eddie-perez-alice-perez-jason-walker-robin-walker.jpg)
 
