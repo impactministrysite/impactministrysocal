@@ -26,7 +26,6 @@ Chaplain Dan Gaither — the full-time chaplain on staff at the jail — welcome
 
 *Pastor Eddie joined with Sheriff's Department, along with Chaplain Dan Gaither and Michael Ladisa, to lead a prayer gathering outside the Santa Barbara County Jail.*
 
-\
 <br>
 
 **3rd Annual Christmas Gift Event —** Impact board member Rafael Luna has taken the leadership role for this entire event (3rd Annual) and he will manage the fundraising and volunteer coordination for all aspects! Thanks to Rafael. Look for his fundraising ‘call for donations’ this early autumn on social media.
