@@ -62,7 +62,13 @@ collections:
           - label: Body
             name: body
             widget: markdown
-
+      - file: "data/pages/donate.yml"
+        label: Donate
+        name: donate
+        fields:
+          - label: Body
+            name: body
+            widget: markdown
 
   - name: settings
     label: Settings
