@@ -22,7 +22,6 @@ The course ran 6 weeks in April-May, and for a “dry run/first run” we heard 
 
 Chaplain Dan Gaither — the full-time chaplain on staff at the jail — welcomed everyone and eloquently thanked and acknowledged custody staff for their dedication, commitment, and service during this difficult time of the pandemic, and prayed for all the men and women housed in the jail especially for ongoing protection. The Catholic chaplain, Michael Ladisa, prayed — Alice read Psalm 116, and Eddie closed out the prayers with an uplifting thanks to the staff for ‘believing in the men and women in their care’ and supporting the chaplains and the work of God in serving Him inside the jail. Sheriff Brown closed out the gathering with thanks of his own for the chaplaincy at the jail and for the dedication to the spiritual guidance, support, and instruction of those in custody but also of the custody staff members who he said had benefitted a great deal by the chaplains’ presence inside the jail. Sheriff Brown said he would like to see more spiritual instruction inside the jail once we are allowed to return after the pandemic. Eddie and Alice returned to the jail on August 12 to ‘prayer walk’ the main areas outside the jail and all of us on the core Impact Ministry team (Jason and Robin Walker, Eddie and Alice Perez) believe for a radical change the atmosphere and climate in and around the jail such that we will begin to hear from folks we prayed over and we will have staff asking how they can be involved and joining us in prayer.
 
-
 ![](/images/uploads/prayer-gathering.jpg)
 
 *Pastor Eddie joined with Sheriff's Department, along with Chaplain Dan Gaither and Michael Ladisa, to lead a prayer gathering outside the Santa Barbara County Jail.*
@@ -43,9 +42,9 @@ Impact Ministry has been invited to come alongside the young girls in residence 
 
 <br>
 
-![](/images/uploads/jason-walker-robin-walker.png)
+![](/images/uploads/hope-refuge-banner.jpg)
 
-*Pastor Jason Walker and Chaplain Robin Walker with Impact Ministry.*
+*Hope Refuge Inc. is a nonprofit organization in Santa Barbara County, California established in 2013 in response to the growing awareness of the crisis in America involving children and young adults who are being trafficked in the commercial sex industry.*
 
 <br>
 
