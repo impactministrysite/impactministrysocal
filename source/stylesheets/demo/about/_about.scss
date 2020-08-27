@@ -1,5 +1,6 @@
 .about-body {
   border-top: 1px solid $background-primary-color;
+  margin: 10px;
   .title, .content {
     @extend %column;
     @extend %col-md-8;
@@ -28,7 +29,11 @@
   ul, ol {
     margin-bottom: 30px;
   }
-
+  
+  img {
+    max-width: 100%;
+  }
+  
   .date {
     font-size: 24px;
     color: rgba(102, 102, 102, 1)
