@@ -9,5 +9,3 @@ nav_items:
     path: /news/
   - label: Donate
     path: /donate/
-  - label: Board
-    path: /board/
