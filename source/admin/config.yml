@@ -69,7 +69,14 @@ collections:
           - label: Body
             name: body
             widget: markdown
-
+      - file: "data/pages/board.yml"
+        label: Board
+        name: board
+        fields:
+          - label: Body
+            name: body
+            widget: markdown
+            
   - name: settings
     label: Settings
     files:
