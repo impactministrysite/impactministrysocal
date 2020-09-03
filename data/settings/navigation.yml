@@ -3,6 +3,8 @@ nav_items:
     path: /
   - label: About
     path: /about/
+  - label: Board
+    path: /board/
   - label: Programs
     path: /programs/
   - label: News
