@@ -9,4 +9,4 @@ image: /images/uploads/2020_gratitude_letter.jpeg
 
 <br>
 
-A special thank you to Tides Foundation, Mission Church Ventura, Mission City Church Santa Barbara, and Emanual Lutheran Church Santa Barbara!
+A special thank you to Tides Foundation, Mission Church Ventura, Mission City Church Santa Barbara, and Emanuel Lutheran Church Santa Barbara for your generous support!!
