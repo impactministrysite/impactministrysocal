@@ -1,11 +1,11 @@
-.ministry-detail
-  .image style=background_image(image_path(ministry.image))
+.program-detail
+  .image style=background_image(image_path(program.image))
   .content
     .meta
-      h1 = ministry.title
+      h1 = program.title
 
       .location
-        span = ministry.location.to_s
+        span = program.location.to_s
 
     .body
-      = markdown ministry.body
+      = markdown program.body
