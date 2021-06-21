@@ -2,14 +2,14 @@
 title: Ministries | Impact Ministry
 ---
 
-section.ministries
+section.programs
   .container
     h2
       | Ministries
     .row
       //ministry is structured: ['filename', 'data']
       //sort by newest ministry
-      - data.ministries.sort {|a,b| b[1].date <=> a[1].date}.each do | ministry |
+      - data.programs.sort {|a,b| b[1].date <=> a[1].date}.each do | program |
 
         //to get the actual data:
-        = partial 'partials/ministries/ministry', locals: {ministry: ministry[1]}
+        = partial 'partials/programs/program', locals: {program: program[1]}
