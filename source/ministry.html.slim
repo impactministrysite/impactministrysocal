@@ -1,0 +1,11 @@
+.ministry-detail
+  .image style=background_image(image_path(ministry.image))
+  .content
+    .meta
+      h1 = ministry.title
+
+      .location
+        span = ministry.location.to_s
+
+    .body
+      = markdown ministry.body
