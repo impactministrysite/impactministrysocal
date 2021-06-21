@@ -5,8 +5,8 @@ nav_items:
     path: /about/
   - label: Board
     path: /board/
-  - label: Programs
-    path: /programs/
+  - label: Ministries
+    path: /ministries/
   - label: News
     path: /news/
   - label: Donate
