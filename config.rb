@@ -68,10 +68,6 @@ helpers do
   def markdown(text)
      Tilt['markdown'].new(context: @app) { text }.render
   end
-
-  def markdown(content)
-     Tilt['markdown'].new { content }.render
-  end
 end
 
 # Build-specific configuration
