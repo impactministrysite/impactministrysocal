@@ -64,6 +64,10 @@ helpers do
     options[:class] << " active" if url == current_page.url
     link_to(link_text, url, options)
   end
+  
+  def markdown(text)
+     Tilt['markdown'].new(context: @app) { text }.render
+  end
 
   def markdown(content)
      Tilt['markdown'].new { content }.render
