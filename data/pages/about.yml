@@ -1,5 +1,6 @@
 body: >-
-  <img src="/images/logo.svg" style="float:center; width:50%" >
+  <img src="/images/logo.svg" style="display:block; margin-left:auto;
+  margin-right:auto; width:40%;" >
 
 
   <br><br>
@@ -26,7 +27,7 @@ body: >-
   ## History of Impact Ministry
 
 
-  <p style="float:right; width=200px; padding-left:15px; font-size:11px;"><img src="/images/uploads/about-history.jpg" style="width:300px;"><br>Pastor Eddie Perez on a recent visit to Old Folsom Prison</p>
+  <p style="float:right; width=25%; padding:15px; font-size:11px;"><img src="/images/uploads/about-history.jpg" style="width:40%;" ><br>Pastor Eddie Perez on a recent visit to Old Folsom Prison</p>
 
 
   **We give all Glory and Honor to our God for all the many gifts and treasures He has given us.**
