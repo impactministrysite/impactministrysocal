@@ -1,14 +1,17 @@
 body: >-
-  **Thank you for your support.**
+  ## **Thank you for your support.**
 
 
-  We now have options available for supporters to provide tax deductible donations through PayPal, Venmo, or by sending a check. Here is more information on how you are able to provide a tax-deductible love offering through one of the following options:
+  We now have options available for supporters to provide tax deductible donations through PayPal, Venmo, or by sending a check. Here is more information on how you are able to provide a tax-deductible love offering through one of the following options:<br><br>
 
 
-  **To donate by check:**
+  > *We want to thank you for taking the time to consider partnering with Impact Ministry to make a difference in our community!* 
 
 
-  For more information about donating by check, please call Pastor Perez: (805) 448-9096
+  <br>**To donate by check:**
+
+
+  For more information about donating by check, please call Pastor Perez: (805) 448-9096<br><br>
 
 
   **To donate online by Venmo:**
@@ -20,7 +23,7 @@ body: >-
   From a computer browser, please “Join Impact on Venmo” by going to **[www.venmo.com/Impact-Ministry-1](www.venmo.com/Impact-Ministry-1*)**
 
 
-  For more information on Venmo, please see **[Venmo's website](https://venmo.com/)**.
+  For more information on Venmo, please see **[Venmo's website](https://venmo.com/)**.<br><br>
 
 
   **To donate by PayPal:**
@@ -29,13 +32,7 @@ body: >-
   Using the button below, please specify an amount and send to Impact Ministry.
 
 
-  For more information on PayPal, please see **[PayPal’s website](https://www.paypal.com/us/home)**.
-
-
-  *We want to thank you for taking the time to consider partnering with Impact Ministry to make a difference in our community!*
-
-
-  *<br>*
+  For more information on PayPal, please see **[PayPal’s website](https://www.paypal.com/us/home)**.*<br>*<br>
 
 
   <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -48,6 +45,6 @@ body: >-
 
   <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 
-  <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+  <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="10" height="10" />
 
   </form>
